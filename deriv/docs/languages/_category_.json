@@ -1,0 +1,8 @@
+{
+  "label": "Language-specific guides",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Each language section contains step-by-step instructions on how to use the Deriv WebSocket Server APIs with pure language features."
+  }
+}
